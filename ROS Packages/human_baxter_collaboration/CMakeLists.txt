@@ -32,6 +32,9 @@ catkin_package()
 catkin_install_python(PROGRAMS
   scripts/tf_publisher.py
   scripts/server_endpoint_hrc.py
+  scripts/sofar_project.py
+  scripts/trajectory_planner_server_left.py
+  scripts/trajectory_planner_server_right.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
