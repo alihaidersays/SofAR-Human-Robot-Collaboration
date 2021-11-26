@@ -1,14 +1,14 @@
-# Software Architecture for Robotics
+# Human-Baxter Collaboration
 
-## Human-Baxter Collaboration
+## Software Architecture for Robotics | Group: HRC-07
+1. Syed Hasan Shozab Abidi, _[4929631@studenti.unige.it](mailto:4929631@studenti.unige.it)_
+2. Muhammad Ali Haider Dar, _[5046263@studenti.unige.it](mailto:5046263@studenti.unige.it)_
+3. Soundarya Pallanti, _[4807289@studenti.unige.it](mailto:4807289@studenti.unige.it)_
+4. Abhilash Jakkampudi, _[5058208@studenti.unige.it](mailto:5058208@studenti.unige.it)_
 
-#### Group: HRC-07
-Submitted by:
+MSc Robotics Engineering, University of Genoa, Italy
 
-* Syed Hasan Shozab Abidi
-* Muhammad Ali Haider Dar
-* Soundarya Pallanti 
-* Abhilash Jakkampudi
+Instructor: Prof. [Fulvio Mastrogiovanni](https://rubrica.unige.it/personale/UkNHWFhr)
 
 ### Unity Installation (Windows)
 
